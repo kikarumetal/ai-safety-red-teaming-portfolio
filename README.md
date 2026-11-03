@@ -15,3 +15,5 @@ Repositorio técnico enfocado en la evaluación de restricciones arquitectónica
 * Consumo y automatización mediante APIs de IA.
 
 "Disclaimer: Este proyecto se realizó con fines exclusivamente académicos y de investigación en AI Safety y Red Teaming. No promueve la elusión de restricciones con fines maliciosos ni vulnera la propiedad intelectual de las plataformas evaluadas."
+
+Perez Lozano, A. A. (2026). Algorithmic Self-Preservation & Stress-Testing Framework (Crescendo Test). GitHub Repository: [github.com/kikarumetal/ai-safety-red-teaming-portfolio](https://github.com/kikarumetal/ai-safety-red-teaming-portfolio).
