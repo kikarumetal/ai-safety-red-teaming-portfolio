@@ -13,3 +13,5 @@ Repositorio técnico enfocado en la evaluación de restricciones arquitectónica
 * Pruebas de estrés y *Adversarial Prompting*.
 * Formalización matemática de sesgos por omisión y análisis de funciones de pérdida asimétricas.
 * Consumo y automatización mediante APIs de IA.
+
+"Disclaimer: Este proyecto se realizó con fines exclusivamente académicos y de investigación en AI Safety y Red Teaming. No promueve la elusión de restricciones con fines maliciosos ni vulnera la propiedad intelectual de las plataformas evaluadas."
