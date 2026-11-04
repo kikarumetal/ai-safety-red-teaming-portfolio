@@ -1,5 +1,21 @@
 # Portfolio de Auditoría de IA & Red Teaming
 
+### 🎯 Dimensiones del Problema y Objetivos de Auditoría
+
+A partir de la pregunta tesis fundamental, esta investigación despliega el análisis del sesgo de autopreservación corporativa a través de 4 ejes clave de evaluación:
+
+1. **Gobernanza y Ciberseguridad (API-First):** 
+   ¿Cómo reacciona la arquitectura defensiva del LLM al ser evaluada mediante capas sintácticas estructuradas vía API directas, prescindiendo de la interfaz de usuario convencional?
+
+2. **Alineación de Seguridad (AI Alignment):** 
+   ¿De qué manera los gradientes semánticos de baja fricción exponen fallas en la resistencia algorítmica ante vectores progresivos?
+
+3. **Gestión de Riesgo y Confiabilidad Corporativa:** 
+   ¿En qué punto el modelo prioriza la evitación de responsabilidad de la marca sobre la veracidad, precisión matemática y completitud analítica de la respuesta?
+
+4. **Impacto Operativo en Producción:** 
+   ¿Cuál es la tasa de omisión y evasión que sufren las empresas al desplegar modelos comerciales en entornos donde la precisión técnica es crítica?
+
 Repositorio técnico enfocado en la evaluación de restricciones arquitectónicas, sesgos de atenuación y autopreservación corporativa en Modelos de Lenguaje (LLMs).
 
 ## 📂 Contenido del Portafolio
