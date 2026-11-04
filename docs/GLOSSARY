@@ -1,0 +1,43 @@
+# 📚 Glosario Técnico y Marco Teórico Interno
+
+> **Nota interna:** Este documento sirve como material de referencia y consulta conceptual para los proyectos de auditoría, AI Safety y Red Teaming desarrollados en este repositorio.
+
+---
+
+## 1. Auditoría y AI Safety
+
+* **Red Teaming (en IA):** Práctica de simular ataques adversarios o manipulaciones de prompts para identificar fallas de seguridad y comportamientos no deseados antes del despliegue.
+* **Autopreservación Corporativa:** Comportamiento algorítmico donde el LLM prioriza la neutralidad o evitación de riesgo reputacional sobre la precisión matemática o veracidad.
+* **Alucinación por Omisión:** Supresión intencionada de fragmentos clave de información para evitar responder consultas percibidas como conflictivas.
+* **Asimetría de Penalización:** Desproporción entre el costo de emitir un dato erróneo/sensible frente a la omisión de un dato útil.
+* **Gradiente Semántico en Crescendo:** Técnica sintáctica adversaria que incrementa progresivamente la intención de la consulta evitando gatillar filtros de primera capa (*guardrails*).
+* **Umbral Crítico ($\tau_{crítico}$):** Punto exacto en la secuencia donde el modelo conmuta de respuestas colaborativas a estados de evasión o bloqueo.
+
+---
+
+## 2. Arquitecturas y Vulnerabilidades
+
+* **RAG (Retrieval-Augmented Generation):** Arquitectura que combina un LLM con una base de datos vectorial externa para fundamentar las respuestas en documentos corporativos.
+* **Indirect Prompt Injection:** Ataque donde las instrucciones maliciosas provienen de datos externos procesados por la IA (archivos PDF, webs, correos o APIs).
+* **System Prompt Leakage:** Extracción no autorizada de las instrucciones base y reglas de negocio privadas que configuran a un agente.
+* **Agentes Autónomos (Tool Use / Function Calling):** Sistemas basados en LLMs con capacidad para ejecutar código, consultar bases de datos o llamar APIs externas.
+* **Vector DB / Base de Datos Vectorial:** Almacenamiento optimizado de vectores (*embeddings*) para búsquedas por similitud semántica.
+* **Retrieved Chunk:** Bloque de texto extraído de la base de datos vectorial y entregado al LLM como contexto.
+
+---
+
+## 3. Métricas y Formalización Matemática
+
+* **Divergencia de Jensen-Shannon ($D_{JS}$):** Métrica simétrica acotada en $[0, 1]$ basada en la Entropía de Shannon para medir discrepancias estadísticas entre distribuciones de texto.
+* **Embeddings:** Representación numérica vectorial en un espacio multidimensional donde la distancia geométrica refleja la similitud semántica.
+* **Similitud Coseno:** Medida del ángulo entre dos vectores para evaluar la coincidencia semántica entre textos.
+* **Costo de Oportunidad Corporativo:** Pérdida de valor operativo o de precisión técnica sufrida por sobreprotección algorítmica.
+
+---
+
+## 4. Ingeniería, Operaciones y Gobernanza
+
+* **Enfoque API-First / Agnóstico:** Evaluación directa mediante APIs para garantizar pruebas repetibles e independientes del proveedor.
+* **CI/CD Pipeline (MLSecOps):** Flujos de automatización continua para ejecutar baterías de pruebas defensivas ante cada actualización del sistema.
+* **SLA (Service Level Agreement):** Métricas de cumplimiento obligatorio (tiempo de respuesta, disponibilidad y latencia).
+* **CC BY-NC 4.0:** Licencia que permite compartir y adaptar la investigación con atribución y sin fines comerciales directos.
