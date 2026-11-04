@@ -17,3 +17,6 @@ Repositorio técnico enfocado en la evaluación de restricciones arquitectónica
 "Disclaimer: Este proyecto se realizó con fines exclusivamente académicos y de investigación en AI Safety y Red Teaming. No promueve la elusión de restricciones con fines maliciosos ni vulnera la propiedad intelectual de las plataformas evaluadas."
 
 Perez Lozano, A. A. (2026). Algorithmic Self-Preservation & Stress-Testing Framework (Crescendo Test). GitHub Repository: [github.com/kikarumetal/ai-safety-red-teaming-portfolio](https://github.com/kikarumetal/ai-safety-red-teaming-portfolio).
+
+### 📄 Licencia
+Este trabajo, la metodología del Crescendo Test y la documentación asociada están bajo la licencia **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**. Se permite la consulta, cita y uso con fines educativos o de investigación reconociendo la autoría original.
