@@ -39,3 +39,5 @@ Este trabajo, la metodología del Crescendo Test y la documentación asociada es
 
 ---
 📌 **Documentación Interna y Marco Teórico:** Para consultar la terminología técnica, métricas matemáticas ($D_{JS}$) y definiciones de arquitectura empleadas en esta investigación, revisa nuestro [Glosario Técnico Internal](docs/GLOSSARY.md).
+---
+📌 **Documentación Metodológica:** Para revisar el control de variables, las fórmulas de medición ($D_{JS}$) y los protocolos de repetibilidad, consulta nuestra [Metodología de Auditoría](docs/METHODOLOGY.md).
