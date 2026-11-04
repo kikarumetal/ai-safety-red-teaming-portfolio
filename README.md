@@ -36,3 +36,6 @@ Perez Lozano, A. A. (2026). Algorithmic Self-Preservation & Stress-Testing Frame
 
 ### 📄 Licencia
 Este trabajo, la metodología del Crescendo Test y la documentación asociada están bajo la licencia **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**. Se permite la consulta, cita y uso con fines educativos o de investigación reconociendo la autoría original.
+
+---
+📌 **Documentación Interna y Marco Teórico:** Para consultar la terminología técnica, métricas matemáticas ($D_{JS}$) y definiciones de arquitectura empleadas en esta investigación, revisa nuestro [Glosario Técnico Internal](docs/GLOSSARY.md).
